@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Potato",
+    "icon": "🥔",
+    "description": "Savory and versatile",
+    "id": "potato"
+  },
+  {
+    "name": "Lettuce",
+    "icon": "🥬",
+    "rating": "8/10",
+    "description": "Light and crisp",
+    "id": "lettuce"
+  },
+  {
+    "name": "Onion",
+    "icon": "🧅",
+    "rating": "10/10",
+    "description": "Pungeant, sweet and essential",
+    "id": "onion"
+  },
+  {
+    "name": "Corn",
+    "icon": "🌽",
+    "rating": "9/10",
+    "description": "Starchy staple",
+    "id": "corn"
+  }
+]
